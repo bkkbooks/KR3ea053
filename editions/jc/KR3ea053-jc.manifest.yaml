@@ -1,0 +1,364 @@
+canonical_identifier: bkk:krp/KR3ea053/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3ea053/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 素靈微蘊
+  identifiers:
+    krp: KR3ea053
+  tags:
+    kr-categories: KR3ea
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ea053.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3ea053_000-jc.yaml, hash: 'sha256:646561d1967f78e6931dc56ea8b6f2661635df77b006aaaabb7835e0acea6612'}
+  - {seq: 1, filename: KR3ea053_001-jc.yaml, hash: 'sha256:7ec977a7133e408381a228975248f5753cf6d223729e46dcc9b9c841a5eb4222'}
+  - {seq: 2, filename: KR3ea053_002-jc.yaml, hash: 'sha256:8f85bcdc487906cab6a4ef512e5304d5fd3d45506554975bfefbacc8d2de31a3'}
+  - {seq: 3, filename: KR3ea053_003-jc.yaml, hash: 'sha256:76310f909c81f09674e8e1c687da7b4ea1b0495d307fce46dfa3bbc42094f6eb'}
+  - {seq: 4, filename: KR3ea053_004-jc.yaml, hash: 'sha256:3103543d3dbc3bc1a78f39b955c9240e1e71a3170500858e0fe5495a8eb260a3'}
+  - {seq: 0, filename: KR3ea053_000-jc.yaml, hash: 'sha256:1c8b5007ce7a79c25d789560b455b65184874e41ec8210a543caa19728da42a8'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ea053_000-jc.markers.yaml, hash: 'sha256:61977ff70bff8956c46b05e39e26b63c6d2545ca571361cdb18c7663dc334f59'}
+  - {seq: 1, role: markers, filename: assets/KR3ea053_001-jc.markers.yaml, hash: 'sha256:4e28a8a4d8168f205411653ac2083084dc920e07351921ac2e9bded0ffde083e'}
+  - {seq: 2, role: markers, filename: assets/KR3ea053_002-jc.markers.yaml, hash: 'sha256:d53d9868f56c3fe0e00796b6123a7d858fafea0ad6c95300e8f4ecfa93463a82'}
+  - {seq: 3, role: markers, filename: assets/KR3ea053_003-jc.markers.yaml, hash: 'sha256:20843a87b6e287bc766cefb7d452d5ad0f41fdce58a935b541073c198cd30ffb'}
+  - {seq: 4, role: markers, filename: assets/KR3ea053_004-jc.markers.yaml, hash: 'sha256:ad2dca52143c428b3ace1d5abf6e71f272e02680e571425d5401499e600dde14'}
+  - {seq: 0, role: markers, filename: assets/KR3ea053_000-jc.markers.yaml, hash: 'sha256:61977ff70bff8956c46b05e39e26b63c6d2545ca571361cdb18c7663dc334f59'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ea053_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 200
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ea053_jc_001-d3.h1s1
+    span:
+    - body
+    - 0
+    - 11187
+  label: 卷一
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ea053_jc_001-d3d2
+    span:
+    - body
+    - 2
+    - 1197
+  label: 胎化解
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ea053_jc_001-d3d3
+    span:
+    - body
+    - 1197
+    - 4010
+  label: 藏象解
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ea053_jc_001-d3d4
+    span:
+    - body
+    - 4010
+    - 7710
+  label: 經脈解
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ea053_jc_001-d3d5
+    span:
+    - body
+    - 7710
+    - 9110
+  label: 營衛解
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ea053_jc_001-d3d6
+    span:
+    - body
+    - 9110
+    - 11187
+  label: 臟候解
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ea053_jc_002-d4.h1s1
+    span:
+    - body
+    - 0
+    - 9269
+  label: 卷二
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3ea053_jc_002-d4d2
+    span:
+    - body
+    - 2
+    - 2073
+  label: 五色解
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ea053_jc_002-d4d3
+    span:
+    - body
+    - 2073
+    - 3397
+  label: 五聲解
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ea053_jc_002-d4d4
+    span:
+    - body
+    - 3397
+    - 9269
+  label: 問法解
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ea053_jc_002-d4.d4d18
+    span:
+    - body
+    - 4681
+    - 8602
+  label: 診法解
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ea053_jc_002-d4.d4d19
+    span:
+    - body
+    - 8602
+    - 9269
+  label: 醫方解
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ea053_jc_003-d5.h1s1
+    span:
+    - body
+    - 0
+    - 12167
+  label: 卷三
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3ea053_jc_003-d5d2
+    span:
+    - body
+    - 2
+    - 990
+  label: 齁喘解
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ea053_jc_003-d5d3
+    span:
+    - body
+    - 990
+    - 2271
+  label: 吐血解
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ea053_jc_003-d5d4
+    span:
+    - body
+    - 2271
+    - 4579
+  label: 驚悸解
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ea053_jc_003-d5d5
+    span:
+    - body
+    - 4579
+    - 6177
+  label: 悲恐解
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ea053_jc_003-d5d6
+    span:
+    - body
+    - 6177
+    - 7981
+  label: 飧泄解
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ea053_jc_003-d5d7
+    span:
+    - body
+    - 7981
+    - 9167
+  label: 腸澼解
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ea053_jc_003-d5d8
+    span:
+    - body
+    - 9167
+    - 11005
+  label: 脾胃解
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ea053_jc_003-d5d9
+    span:
+    - body
+    - 11005
+    - 12167
+  label: 火逆解
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ea053_jc_004-d6.h1s1
+    span:
+    - body
+    - 0
+    - 10038
+  label: 卷四
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3ea053_jc_004-d6d2
+    span:
+    - body
+    - 2
+    - 1355
+  label: 消渴解
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ea053_jc_004-d6d3
+    span:
+    - body
+    - 1355
+    - 2425
+  label: 氣鼓解
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ea053_jc_004-d6d4
+    span:
+    - body
+    - 2425
+    - 3521
+  label: 噎膈解
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ea053_jc_004-d6d5
+    span:
+    - body
+    - 3521
+    - 4625
+  label: 反胃解
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ea053_jc_004-d6d6
+    span:
+    - body
+    - 4625
+    - 5871
+  label: 中風解
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ea053_jc_004-d6d7
+    span:
+    - body
+    - 5871
+    - 6739
+  label: 帶下解
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ea053_jc_004-d6d8
+    span:
+    - body
+    - 6739
+    - 8233
+  label: 耳聾解
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ea053_jc_004-d6d9
+    span:
+    - body
+    - 8233
+    - 10038
+  label: 目病解
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ea053_jc_000-d7.h1s1
+    span:
+    - front
+    - 0
+    - 1432
+  label: 序意
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ea053_jc_000-d7d10
+    span:
+    - front
+    - 279
+    - 1432
+  label: 杝元
+  type: section
+  level: 2
+hash: sha256:8c20a2e40da2ee319544cc6d07f334554e61a2f86bb1d7524f96cffe9670baf7
